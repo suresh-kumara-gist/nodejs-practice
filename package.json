@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "https://www.guru99.com/node-js-modules-create-publish.html",
+  "main": "Addition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suresh-kumara-gist/nodejs-practice.git"
+  },
+  "author": "Suresh kumara. (https://blogger-suresh.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suresh-kumara-gist/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/suresh-kumara-gist/nodejs-practice#readme"
+}
