@@ -1,0 +1,13 @@
+# exclude everything
+offline-content-image/app/*
+
+# exception to the rule
+!offline-content-image/app/.gitkeep 
+
+# exclude everything
+logs/*
+
+# exception to the rule
+!logs/.gitkeep
+
+
